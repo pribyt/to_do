@@ -1,5 +1,7 @@
 # README
 
+https://quiet-shore-65441.herokuapp.com/
+
 Rails API with a separate frontend React app:
 web: cd client && PORT=3000 npm start
 api: PORT=3001 && bundle exec rails s
